@@ -152,3 +152,4 @@ b6.bind('<Button-1>', enter6)
 b6.place(x = 10, y = 150)
 
 root.mainloop()
+logger.log("Программа закрыта")
